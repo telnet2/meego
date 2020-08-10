@@ -1,7 +1,7 @@
 package strings
 
 func Version() string {
-	return "v1"
+	return "v2"
 }
 
 func Reverse(s string) string {
